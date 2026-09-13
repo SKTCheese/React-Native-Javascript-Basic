@@ -8,5 +8,4 @@ MSSV: 10123039
 - Bai 2: Export/Import va Destructuring
 - Bai 3: Map, Filter, Reduce
 
-## Github
-(Dan link Github sau khi upload)
+
